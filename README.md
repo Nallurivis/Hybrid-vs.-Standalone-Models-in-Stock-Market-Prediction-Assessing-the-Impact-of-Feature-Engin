@@ -59,5 +59,7 @@ Explore real-time and reinforcement learning-based strategies
 All data used is publicly available from Yahoo Finance
 No use of insider data
 The project is for academic research only and does not constitute financial advice
+though our experiment does'nt show that hybrid model outperforms the standalone model it still show the impact of feature engineering on the models in our case it was negitive.
+but, if we select correct features and optimise our hybrid model.Then we can see that hybrid models outperfome standalone model as we have seen in so many previous studies
 
 
